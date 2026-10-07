@@ -1,31 +1,63 @@
-<p align="center"> <img src="assets/banner.svg" width="100%" alt="Carlo Bastini, Full Stack Software Engineer, Angular and .NET Core, based in Straubing, Germany"> </p>
-About me
+<div align="center">
 
-Software Engineer based in Straubing, Germany, with 2+ years of experience building full-stack web applications with Angular and .NET.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Carlo%20Bastini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" alt="Carlo Bastini banner" width="100%"/>
 
-I like owning a feature from the database to the screen: designing the data, building the API, and shipping a clean front end. I'm completing my Master's in Applied Computer Science at Deggendorf Institute of Technology and looking for my next team in Germany.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Angular+%2B+.NET+Core+developer;2%2B+years+building+full-stack+apps;Master%27s+student+in+Applied+Computer+Science;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-Tech stack
-Area	Technologies
-Front-end	Angular, TypeScript, JavaScript, HTML, CSS, WordPress
-Back-end	.NET Core, .NET Framework, PHP, REST APIs
-Languages	C#, Java, C++, Python, SQL
-Tools & methods	Git, Agile
-Experience
+<br/>
 
-Full Stack Developer, Eleonora Boaretto Fit (03/2024 - 01/2025) Designed and built a complete website with Angular and .NET Core, including the SQL database: eleonoraboarettofit.com
+[![Email](https://img.shields.io/badge/Email-bastinicarlo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastinicarlo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-bastini-624993229)
 
-Raspberry Developer, Self-employed (03/2024 - 09/2024) Designed and built an accessible mouse on a Raspberry Pi Pico, programmed in CircuitPython around the client's needs.
+</div>
 
-Full Stack Developer, Sia Informatica S.r.l. (12/2020 - 04/2022) Built company websites with Angular and .NET Framework, designed and developed APIs, and created SQL databases and analytical views.
+---
 
-Education
-M.Sc. Applied Computer Science, Deggendorf Institute of Technology
-B.Sc. Computer Engineering, Università di Padova
-Languages
+## 👋 About me
 
-Italian (native), English (C1), German (A2)
+Software Engineer based in **Straubing, Germany**, with 2+ years of experience building full-stack web applications with **Angular** and **.NET**.
 
-Get in touch
+I enjoy taking a project from idea to production: designing the database, building the API, and shipping a clean front end. I'm completing my **Master's in Applied Computer Science** at Deggendorf Institute of Technology and looking to grow my career in Germany.
 
-bastinicarlo@gmail.com or LinkedIn
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,java,cpp,py,php,wordpress,git,raspberrypi" alt="Tech stack icons" />
+
+</div>
+
+| Area | Technologies |
+|------|--------------|
+| **Front-end** | Angular, TypeScript, JavaScript, HTML, CSS, WordPress |
+| **Back-end** | .NET Core, .NET Framework, PHP, REST APIs |
+| **Languages** | C#, Java, C++, Python, SQL |
+| **Tools & Methods** | Git, Agile |
+
+## 💼 Experience
+
+**Full Stack Developer**, Eleonora Boaretto Fit *(2024 - 2025)*
+Designed and built a complete website with Angular and .NET Core, including the SQL database. → [eleonoraboarettofit.com](https://eleonoraboarettofit.com)
+
+**Raspberry Developer**, Self-employed *(2024)*
+Designed and built an accessible mouse on a Raspberry Pi Pico, programmed in CircuitPython around the client's needs.
+
+**Full Stack Developer**, Sia Informatica S.r.l. *(2020 - 2022)*
+Built company websites with Angular and .NET Framework, designed and developed APIs, and created SQL databases and analytical views.
+
+## 🎓 Education
+
+- **M.Sc. Applied Computer Science**, Deggendorf Institute of Technology
+- **B.Sc. Computer Engineering**, Università di Padova
+
+## 🌍 Languages
+
+🇮🇹 Italian (native) · 🇬🇧 English (C1) · 🇩🇪 German (A2)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
