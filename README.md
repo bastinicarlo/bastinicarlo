@@ -36,4 +36,4 @@ Built company websites with Angular and .NET Framework, designed and developed A
 ## 📫 Get in touch
 
 - ✉️ [bastinicarlo@gmail.com](mailto:bastinicarlo@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlo-bastini-624993229)
