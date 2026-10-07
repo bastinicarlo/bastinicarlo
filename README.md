@@ -8,13 +8,9 @@
 
 <br/><br/>
 
-<a href="mailto:bastinicarlo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bastinicarlo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;" />
-</a>
+[![Email](https://img.shields.io/badge/Email-bastinicarlo%40gmail.com-D14836?style=for-social&logo=gmail&logoColor=white)](mailto:bastinicarlo@gmail.com)
 &nbsp;
-<a href="https://www.linkedin.com/in/carlo-bastini-624993229">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-bastini-624993229)
 
 </div>
 
