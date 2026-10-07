@@ -1,10 +1,33 @@
-# Hi, I'm Carlo 👋
+<div align="center">
 
-**Software Engineer** based in Straubing, Germany, with 2+ years of experience building full-stack web applications with **Angular** and **.NET**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Carlo%20Bastini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" alt="Carlo Bastini banner" width="100%"/>
 
-I enjoy taking a project from idea to production: designing the database, building the API, and shipping a clean front end. I'm currently completing my **Master's in Applied Computer Science** at Deggendorf Institute of Technology and looking for opportunities to grow my career in Germany.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Angular+%2B+.NET+Core+developer;2%2B+years+building+full-stack+apps;Master%27s+student+in+Applied+Computer+Science;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing animation" />
+</a>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-bastinicarlo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastinicarlo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-bastini-624993229)
+
+</div>
+
+---
+
+## 👋 About me
+
+Software Engineer based in **Straubing, Germany**, with 2+ years of experience building full-stack web applications with **Angular** and **.NET**.
+
+I enjoy taking a project from idea to production: designing the database, building the API, and shipping a clean front end. I'm completing my **Master's in Applied Computer Science** at Deggendorf Institute of Technology and looking to grow my career in Germany.
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,java,cpp,py,php,wordpress,git,raspberrypi" alt="Tech stack icons" />
+
+</div>
 
 | Area | Technologies |
 |------|--------------|
@@ -33,7 +56,8 @@ Built company websites with Angular and .NET Framework, designed and developed A
 
 🇮🇹 Italian (native) · 🇬🇧 English (C1) · 🇩🇪 German (A2)
 
-## 📫 Get in touch
+<div align="center">
 
-- ✉️ [bastinicarlo@gmail.com](mailto:bastinicarlo@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlo-bastini-624993229)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
